@@ -1,0 +1,10 @@
+11/14/2025 11:12:32 AM :: Occurance of 'PRO' found at : 26. Needs further verification.
+11/14/2025 11:12:32 AM :: Occurance of 'PRO' found at : 26 is NOT single word. Check for 'processor'.
+11/14/2025 11:12:32 AM :: Occurance of 'PRO' found at : 26 is part of PROCESSOR.Discard and check in remaining string.
+11/14/2025 11:12:32 AM :: Updated processor name : AMD Ryzen 5 9600X 6-Core               
+11/14/2025 11:12:32 AM :: Occurance of 'PRO' NOT found.Proceed with installation.
+11/14/2025 11:12:32 AM :: Installation can CONTINUE. Processor : AMD Ryzen 5 9600X 6-Core                Manufacturer : Micro-Star International Co., Ltd.
+11/14/2025 11:12:32 AM :: UpdateARP, value : HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{DBD50508-5F75-416B-995D-C42433A00944}\WindowsInstaller
+11/14/2025 11:12:32 AM :: Function UpdateARP. dat File not present
+11/14/2025 11:12:32 AM :: Function UpdateARP. dat File not present
+11/14/2025 11:12:32 AM :: SetFolPermission_install : Not enabling as programfiles detected
